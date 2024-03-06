@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES6",  // Specify your desired JavaScript target version
+    "module": "commonjs", // Use CommonJS for Node.js projects
+    "outDir": "./dist",   // Output directory for compiled files
+    "rootDir": "./src",   // Root directory for source files
+    "strict": true,       // Enable strict type checking
+    "esModuleInterop": true  // Improve interoperability with CommonJS modules
+  }
+}
